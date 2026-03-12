@@ -11,7 +11,6 @@ class TaskForm(forms.ModelForm):
             "description",
             "deadline",
             "is_complited",
-            "created_at",
 
         ]
 
